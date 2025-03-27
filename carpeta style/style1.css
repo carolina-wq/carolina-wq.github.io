@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#tareas {
+    list-style: none;
+    padding: 0;
+}
+
+li{
+    background: #e5a6f1;
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    background: rgba(202, 94, 184, 0.726);
+    color: rgba(60, 84, 223, 0.733);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
