@@ -2,7 +2,7 @@
        const CACHE_NAME='tareas-cache-v1';
        const urlsToCache=[
         './',
-        './copia de codigo.html',
+        './index.html',
         './carpeta style/style1.css',
         './carpeta java/java1.js',
         './imagenes/pollo192.webp',
