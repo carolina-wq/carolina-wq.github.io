@@ -7,15 +7,15 @@
     "theme_color": "#ffffff",
     "icons":[
         {
-            "src":"imagenes/pollo192.webp",
+            "src":"imagenes/192x192.png",
             "sizes":"192x192",
-            "type": "image/webp"
+            "type": "image/png"
         },
 
         {
-           "src": "imagenes/gato512.webp",
+           "src": "imagenes/512x512",
            "sizes": "512x512",
-           "type": "image/webp"
+           "type": "image/png"
         }
     ]
 }
