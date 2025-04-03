@@ -5,10 +5,10 @@
         './index.html',
         './carpeta style/style1.css',
         './carpeta java/java1.js',
-        './imagenes/pollo192.webp',
-        './imagenes/gato512.webp',
-        
+        './imagenes/192x192.png',
+        './imagenes/512x512.png',
        ];
+
 
 
        self.addEventListener('install', event => {
