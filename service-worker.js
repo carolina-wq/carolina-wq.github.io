@@ -1,5 +1,5 @@
 //   CONSTANTE CACHE
-       const CACHE_NAME='tareas-cache-v1';
+       const CACHE_NAME='tareas-cache-v2';
        const urlsToCache=[
         './',
         './index.html',
@@ -16,9 +16,9 @@
       caches.open('app-cache').then((cache) => {
          return cache.addAll([
             '/',
-            '/index.html',
-            '/styles.css',
-            '/script.js'
+            './index.html',
+            './carpeta style/style.css',
+            './carpeta java/java1.js'
          ]);
       })
    );
