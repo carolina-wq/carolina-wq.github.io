@@ -18,7 +18,7 @@ li {
 }
 button {
     background: rgb(45, 6, 119);
-    color: white;
+    color: red;
     border: none;
     padding: 10px;
     cursor: pointer;
