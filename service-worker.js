@@ -4,8 +4,8 @@ const urlsToCache =[
     './index.html',
     './carpeta_css/estilo.css',
     './carpeta_java/lista.js',
-    './imagen/iconoLista.png',
-    './imagen/IconoPajaro.png',
+    './imagen/192x192.png',
+    './imagen/512x512.png',
 ];
 
 self.addEventListener('install', event => {
